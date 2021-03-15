@@ -2,31 +2,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-#    PSEncoder
-#
-#    Copyright (C) 2012  Carlos Perez
-#
-#    This program is free software; you can redistribute it and/or modify
-#    it under the terms of the GNU General Public License as published by
-#    the Free Software Foundation; Applies version 2 of the License.
-#
-#    This program is distributed in the hope that it will be useful,
-#    but WITHOUT ANY WARRANTY; without even the implied warranty of
-#    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#    GNU General Public License for more details.
-#
-#    You should have received a copy of the GNU General Public License
-#    along with this program; if not, write to the Free Software
-#    Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
-
-__version__ = '0.1'
-__author__ = 'Carlos Perez, Carlos_Perez@darkoperator.com'
-
-__doc__ = """
-PSEncoder http://www.darkoperator.com
-
-by Carlos Perez, Darkoperator
-
+"""
 Encodes a given Windows PowerShell script in to a Base64 String that can be
 passed to the powershell.exe program as an option.
 """
